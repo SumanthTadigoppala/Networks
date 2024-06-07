@@ -1,1 +1,1 @@
-# Networks
+# Assignments / projects for Networks
